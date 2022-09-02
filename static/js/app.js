@@ -121,7 +121,7 @@ $(function () {
             }
         } else {
             $('.company-logo img').attr('src', '../static/img/logos/black-logo.png');
-        }s
+        }
     }
 
     function doSticky()
@@ -479,3 +479,7 @@ $(function () {
         }
     }).trigger("resize");
 })(jQuery);
+
+setTimeout(function(){
+    $('#message').fadeOut('slow');
+}, 4000)

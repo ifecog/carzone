@@ -1,0 +1,1195 @@
+[
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2018 Toyota Corolla",
+        "state": "MI",
+        "city": "Ann Arbor",
+        "color": "White",
+        "model": "Corolla",
+        "year": 2018,
+        "price": 30000,
+        "description": "<div>\r\n<p>The 2018 Toyota Corolla ranks in the middle third of the compact car class. It has a great predicted reliability rating, and it&#39;s loaded with advanced safety features. However, many rivals offer zestier handling, stronger acceleration, and nicer cabin materials than the Corolla.&nbsp;</p>\r\n</div>\r\n\r\n<div>\r\n<div>\r\n<h4>Pros &amp; Cons</h4>\r\n\r\n<div>\r\n<ul>\r\n\t<li>\r\n\t<div>\r\n\t<p>Great gas mileage</p>\r\n\t</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>\r\n\t<p>User-friendly infotainment system</p>\r\n\t</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>\r\n\t<p>Near-perfect predicted reliability rating</p>\r\n\t</div>\r\n\t</li>\r\n</ul>\r\n</div>\r\n\r\n<div>\r\n<ul>\r\n\t<li>\r\n\t<div>\r\n\t<p>Sluggish acceleration</p>\r\n\t</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>\r\n\t<p>Humdrum handling</p>\r\n\t</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>\r\n\t<p>Some low-quality cabin materials</p>\r\n\t</div>\r\n\t</li>\r\n</ul>\r\n</div>\r\n</div>\r\n\r\n<div>\r\n<h4>New for 2018</h4>\r\n\r\n<ul>\r\n\t<li>\r\n\t<div>\r\n\t<p>No major changes</p>\r\n\t</div>\r\n\t</li>\r\n</ul>\r\n</div>\r\n</div>",
+        "car_photo": "photos/22/08/19/1900893299_lK8XGLr.jpg",
+        "car_photo_1": "photos/22/08/19/1900893311_ZkY2ymu.jpg",
+        "car_photo_2": "photos/22/08/19/1900893319_eFLGXbm.jpg",
+        "car_photo_3": "photos/22/08/19/1900893329_Uxq8t2B.jpg",
+        "car_photo_4": "photos/22/08/19/1900893391_2Mnry9E.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Seat Heating,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "1.8L 4-Cylinder engine",
+        "transmission": "Automatic",
+        "interior": "Ash",
+        "miles": 1600,
+        "doors": "4",
+        "passengers": 3,
+        "vin_no": "5YFBURHE1JP831872",
+        "milage": 10000,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-08-19T09:42:39Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "AZ",
+        "city": "Tucson",
+        "color": "White",
+        "model": "4Runner",
+        "year": 2018,
+        "price": 50000,
+        "description": "<p><strong><em>The 2018 Toyota 4Runner is one of the last truck-based SUVs left in the Toyota lineup, slotting below the larger Sequoia. Rear-wheel drive comes standard and four-wheel drive is optional. Some trim levels including the TRD Off-Road and TRD Pro comes standard with four-wheel drive. Depending on the model, the 4Runner can be equipped with a third-row, increasing seating capacity from five to seven.</em></strong></p>",
+        "car_photo": "photos/22/08/19/1893633875.jpg",
+        "car_photo_1": "photos/22/08/19/1893633879.jpg",
+        "car_photo_2": "photos/22/08/19/1893633884.jpg",
+        "car_photo_3": "photos/22/08/19/1896836883.jpg",
+        "car_photo_4": "photos/22/08/19/1896836887.jpg",
+        "features": "Audio Interface,Airbags,Air Conditioning,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "4.0-liter V6 DOHC engine",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 4,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "JTEBU5JR4J5486836",
+        "milage": 10000,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-08-19T09:54:48Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "CA",
+        "city": "Los Angeles",
+        "color": "White",
+        "model": "GTB",
+        "year": 2017,
+        "price": 120000,
+        "description": "<p>The 2017 Ferrari 488 Spider is a <strong>high-end sports convertible with an 8-cylinder turbocharged engine</strong>. It has a 7-speed automatic transmission with dual shift mode, and a rear wheel drive system. The last is the 2017 488 GTB, a rear wheel drive coupe with an 8-cylinder turbocharged engine.</p>",
+        "car_photo": "photos/22/08/19/1902536891.jpg",
+        "car_photo_1": "photos/22/08/19/1902536917.jpg",
+        "car_photo_2": "photos/22/08/19/1902537043.jpg",
+        "car_photo_3": "photos/22/08/19/1902537077.jpg",
+        "car_photo_4": "photos/22/08/19/1902537082.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "3.9 L F154 CB",
+        "transmission": "Automatic",
+        "interior": "Ash",
+        "miles": 10,
+        "doors": "2",
+        "passengers": 1,
+        "vin_no": "ZFF79ALA4H0223816",
+        "milage": 20000,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-08-19T10:00:15Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "TX",
+        "city": "Austin",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2017,
+        "price": 60000,
+        "description": "<p><strong>Ford Edge is a 2.0-liter turbo-four with 245 hp and 275 lb-ft of torque</strong> is the base powertrain on the 2017 Edge. Optional engines include a 3.5-liter V-6 with 280 hp and 255 lb-ft and a 2.7-liter twin-turbo V-6 rated at 315 hp and 350 lb-ft. All engines come paired exclusively to a six-speed automatic transmission.</p>",
+        "car_photo": "photos/22/08/19/1901478607.jpg",
+        "car_photo_1": "photos/22/08/19/1901478618.jpg",
+        "car_photo_2": "photos/22/08/19/1901478646.jpg",
+        "car_photo_3": "photos/22/08/19/1901478672.jpg",
+        "car_photo_4": "photos/22/08/19/1901478687.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "2.0L L4 EcoBoost turbo DOHC 16-valve",
+        "transmission": "Automatic",
+        "interior": "gray",
+        "miles": 1000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "2FMPK3J9XHBB97059",
+        "milage": 20000,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-08-19T10:06:08Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "FL",
+        "city": "Tampa",
+        "color": "Black",
+        "model": "F-Pace",
+        "year": 2017,
+        "price": 58400,
+        "description": "<div>\r\n<p>The 2017 Jaguar F-Pace is a fun-to-drive vehicle with a roomy cabin. However, it holds a midpack ranking in the class because of its dated infotainment system and weak base engine.</p>\r\n</div>\r\n\r\n<div>\r\n<div>\r\n<h4>Pros &amp; Cons</h4>\r\n\r\n<div>\r\n<ul>\r\n\t<li>\r\n\t<div>\r\n\t<p>Sporty driving dynamics</p>\r\n\t</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>\r\n\t<p>Excellent traction in most driving situations</p>\r\n\t</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>\r\n\t<p>Spacious interior and cargo bay</p>\r\n\t</div>\r\n\t</li>\r\n</ul>\r\n</div>\r\n\r\n<div>\r\n<ul>\r\n\t<li>\r\n\t<div>\r\n\t<p>Subpar acceleration with diesel engine</p>\r\n\t</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>\r\n\t<p>Out-of-date base infotainment system</p>\r\n\t</div>\r\n\t</li>\r\n</ul>\r\n</div>\r\n</div>\r\n\r\n<div>\r\n<h4>New for 2017</h4>\r\n\r\n<ul>\r\n\t<li>\r\n\t<div>\r\n\t<p>First year of production</p>\r\n\t</div>\r\n\t</li>\r\n</ul>\r\n</div>\r\n</div>",
+        "car_photo": "photos/22/08/21/1902932503.jpg",
+        "car_photo_1": "photos/22/08/21/1902932514.jpg",
+        "car_photo_2": "photos/22/08/21/2017_jaguar_f_pace_dashboard.jpg",
+        "car_photo_3": "photos/22/08/21/1902932528.jpg",
+        "car_photo_4": "photos/22/08/21/1902932542.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Alarm System,ParkAssist,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "Intercooled Turbo Diesel I-4, 2.0 L",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 1000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "SADCL2BV0HA069192",
+        "milage": 1000,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-08-21T00:42:18Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 7,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "SD",
+        "city": "Deadwood",
+        "color": "Black",
+        "model": "Super Duty",
+        "year": 2017,
+        "price": 54751,
+        "description": "<p>Along with the other two models that make up the Ford Super Duty truck lineup (namely the F-350 and F-450, both reviewed separately), this full-size pickup has been reworked from the ground up. The improvements to the F-250 range from beefier underpinnings and more powerful engines to roomier interiors that can be equipped with a host of convenience and technology features, all designed to make this heavy-duty pickup a good deal more capable.</p>\r\n\r\n<div>\r\n<div>Pros</div>\r\n\r\n<ul>\r\n\t<li>Power Stroke turbodiesel V8 generates immense power and torque</li>\r\n\t<li>Stronger frame and suspension enable increased payload and tow ratings</li>\r\n\t<li>Aluminum body reduces overall weight and improves efficiency</li>\r\n\t<li>Spacious new cabs offer many convenience and technology options</li>\r\n</ul>\r\n\r\n<div>Cons</div>\r\n\r\n<ul>\r\n\t<li>Price tag soars with options</li>\r\n\t<li>Takes up even more parking space than the last-generation version</li>\r\n\t<li>XL base model lacks many expected features</li>\r\n</ul>\r\n</div>",
+        "car_photo": "photos/22/08/21/1894300905.jpg",
+        "car_photo_1": "photos/22/08/21/1894300894.jpg",
+        "car_photo_2": "photos/22/08/21/1894300920.jpg",
+        "car_photo_3": "photos/22/08/21/1900155133.jpg",
+        "car_photo_4": "photos/22/08/21/1900155012.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,Power Steering,Reversing Camera,Wind Deflector",
+        "body_style": "Truck",
+        "engine": "6.2-liter SOHC 2-Valve Flex Fuel V8",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 800,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "1FTFF25H1KKA24592",
+        "milage": 10000,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-08-21T00:50:31Z"
+    }
+},
+{
+    "model": "auto.team",
+    "pk": 1,
+    "fields": {
+        "first_name": "George",
+        "last_name": "Washington",
+        "role": "Manager",
+        "photo": "photos/22/08/15/avatar-11.jpg",
+        "facebook_link": "https://www.facebook.com",
+        "twitter_link": "https://twitter.com/",
+        "google_link": "https://www.google.com/",
+        "created_date": "2022-08-15T13:17:47.964Z"
+    }
+},
+{
+    "model": "auto.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Thomas",
+        "last_name": "Jefferson",
+        "role": "CEO",
+        "photo": "photos/22/08/15/avatar-3.jpg",
+        "facebook_link": "https://www.facebook.com",
+        "twitter_link": "https://twitter.com/",
+        "google_link": "https://www.google.com/",
+        "created_date": "2022-08-15T15:03:18.277Z"
+    }
+},
+{
+    "model": "auto.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Katherine",
+        "last_name": "Goddard",
+        "role": "Support Manager",
+        "photo": "photos/22/08/15/avatar-4.jpg",
+        "facebook_link": "https://www.facebook.com",
+        "twitter_link": "https://twitter.com/",
+        "google_link": "https://www.google.com/",
+        "created_date": "2022-08-15T15:04:27.420Z"
+    }
+},
+{
+    "model": "auto.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Benjamin",
+        "last_name": "Franklin",
+        "role": "CTO",
+        "photo": "photos/22/08/15/avatar-1.jpg",
+        "facebook_link": "https://www.facebook.com",
+        "twitter_link": "https://twitter.com/",
+        "google_link": "https://www.google.com/",
+        "created_date": "2022-08-15T15:06:13.845Z"
+    }
+},
+{
+    "model": "auto.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Booker",
+        "last_name": "Washington",
+        "role": "Chief Engineer",
+        "photo": "photos/22/08/15/avatar-12.jpg",
+        "facebook_link": "https://www.facebook.com",
+        "twitter_link": "https://twitter.com/",
+        "google_link": "https://www.google.com/",
+        "created_date": "2022-08-15T15:53:24.012Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Segun",
+        "last_name": "Segun",
+        "car_id": 5,
+        "customer_need": "I'd like to test drive this",
+        "car_title": "2017 Ford Edge",
+        "city": "LA",
+        "state": "California",
+        "email": "segunforlife@gmail.com",
+        "phone": "+168511238",
+        "message": "dwedsd",
+        "user_id": 8,
+        "date_sent": "2022-08-31T16:31:03.268Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "Ifeoluwa",
+        "last_name": "Ifeoluwa",
+        "car_id": 4,
+        "customer_need": "I'd like a history report for this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "city": "Austin",
+        "state": "Texas",
+        "email": "darasimisamson90@gmail.com",
+        "phone": "+1903669897",
+        "message": "sdsdsd",
+        "user_id": 9,
+        "date_sent": "2022-09-01T08:41:25.805Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$320000$jj02jJJc4Eesmp8VSVMSpJ$0GrZTkv5Bususo89C86kUetaLAU1KneCCzlJXdU+Czk=",
+        "last_login": "2022-09-02T07:36:45.787Z",
+        "is_superuser": true,
+        "username": "auto",
+        "first_name": "Ifeoluwa",
+        "last_name": "Ilori",
+        "email": "ifeoluwasamson90@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-08-15T10:36:08Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$320000$y3ruMQl3al2jg2brNPXicy$DD3L0EKrSxDK45oAJarsI/Js48gLBtOZsPwbdjNZkPQ=",
+        "last_login": "2022-09-02T07:41:35.007Z",
+        "is_superuser": false,
+        "username": "darasimi",
+        "first_name": "Darasimi",
+        "last_name": "Ifeoluwa",
+        "email": "darasimisamson90@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-09-02T07:28:34.200Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "f8uz1nhzlla73d8aw0joq9azkeig16hj",
+    "fields": {
+        "session_data": "eyJhY2NvdW50X3ZlcmlmaWVkX2VtYWlsIjpudWxsLCJhY2NvdW50X3VzZXIiOiI2In0:1oQjhB:SZStySfbJjcxVA6YLJsg2o076kajVvXeFIaGW6w0g68",
+        "expire_date": "2022-09-07T06:16:57.965Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "tzfbwljjxmbtqt6i8ou7xyixd3dhz6ce",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAUBf-FtSG8StGle7-B3AdI1UBS2pXx3w1JF7o9M3PeIsK-lbj3tMaFxUVoI06_IwI9Ux2EH1DvTVKr27qgHIo8aJe3xul1Pdy_gwK9jNoROYKEU1CYjAfnbeDpbJBS4Bx8DuwdegbQZJiy9TZrY_OsZsqgxOcLOvA5Tw:1oU1HN:CwHJJ6kNGxvMSIUQ9OqH8JspLxQsCVZTWnxqwbFM6WA",
+        "expire_date": "2022-09-16T07:39:53.623Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "u39ipsa5bz0cmenlj3dbr386d80x5upf",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAUBf-FtSG8StGle7-B3AdI1UBS2pXx3w1JF7o9M3PeIsK-lbj3tMaFxUVoI06_IwI9Ux2EH1DvTVKr27qgHIo8aJe3xul1Pdy_gwK9jNoROYKEU1CYjAfnbeDpbJBS4Bx8DuwdegbQZJiy9TZrY_OsZsqgxOcLOvA5Tw:1oU1J1:TKyGNQ3Yj6vk2h3N1OBBM2RjvqE-pxlnw6AdRgIwK6Y",
+        "expire_date": "2022-09-16T07:41:35.016Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook Login",
+        "client_id": "1099057114052849",
+        "secret": "014a9ae7de7cd0769b53a7a5ee69a702",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "647400652293-huehdocjml4dgqh3pibv66sitb4ovves.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2022-08-15T10:38:29.685Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "auto",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2022-08-15T10:39:03.566Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "auto",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2022-08-15T13:17:47.983Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auto",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2022-08-15T14:32:08.216Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auto",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "George",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2022-08-15T14:36:20.940Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auto",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "George",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2022-08-15T14:59:56.426Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auto",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "George",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2022-08-15T15:03:18.295Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auto",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Thomas",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2022-08-15T15:04:27.438Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auto",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Katherine",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2022-08-15T15:06:13.856Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auto",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Benjamin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2022-08-15T15:53:24.026Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auto",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Booker T.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2022-08-15T16:24:16.804Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auto",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Booker",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2022-08-19T09:33:25.970Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2022-08-19T09:34:54.722Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-08-19T09:42:41.004Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-08-19T09:54:51.249Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-08-19T10:00:19.634Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-08-19T10:06:11.364Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "Car object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-08-19T10:29:14.769Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2022-08-19T11:49:03.599Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2022-08-19T13:28:14.382Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auto",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Booker",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2022-08-21T00:22:12.689Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2022-08-21T00:42:20.587Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2022-08-21T00:50:33.521Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "7",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2022-08-23T08:14:18.727Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "des",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2022-08-23T08:15:43.501Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "3",
+        "object_repr": "cc",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2022-08-23T21:11:07.243Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "5",
+        "object_repr": "are",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2022-08-23T21:11:19.714Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "4",
+        "object_repr": "fg",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2022-08-24T04:13:42.826Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2022-08-24T04:16:04.645Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2022-08-24T06:15:05.452Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook Login",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Sites\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2022-08-24T06:15:17.176Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2022-08-24T07:07:52.000Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2022-08-24T08:31:40.644Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Sites\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2022-08-24T14:58:06.125Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "6",
+        "object_repr": "ifeoluwa",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2022-08-24T14:58:12.459Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "7",
+        "object_repr": "ifeoluwa8",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2022-08-31T15:34:05.213Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "1",
+        "object_repr": "segunforlife@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2022-08-31T17:33:26.376Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "auto",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2022-08-31T17:33:46.412Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "9",
+        "object_repr": "ifeoluwa",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2022-08-31T18:25:40.875Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "auto",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2022-08-31T18:25:57.683Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "9",
+        "object_repr": "ifeoluwa",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2022-09-02T07:23:42.306Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "9",
+        "object_repr": "ifeoluwa",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2022-09-02T07:23:49.461Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "11",
+        "object_repr": "ifeoluwa7",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2022-09-02T07:23:56.216Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "10",
+        "object_repr": "ifeoluwa8",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2022-09-02T07:24:05.085Z",
+        "user": [
+            "auto"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "8",
+        "object_repr": "segun",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]
