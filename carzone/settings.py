@@ -28,7 +28,8 @@ SECRET_KEY = 'django-insecure-&q^ec@u@@#ii24l&!^vp%u^a0bhv^xylrme@mgm%c!%md3z3&z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['limitless-thicket-02417.herokuapp.com/',
+                 'carzeapp.co', 'www.carzeapp.co']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
@@ -66,7 +67,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware'
 ]
 
 ROOT_URLCONF = 'carzone.urls'
