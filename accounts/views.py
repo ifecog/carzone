@@ -48,10 +48,9 @@ def signup(request):
                     user = User.objects.create_user(
                         first_name=firstname, last_name=lastname, username=username, email=email, password=password)
                     auth.login(request, user)
-                    messages.success(request, 'You are now logged in')
+                    messages.success(request, 'Signup Successful!')
                     return redirect('dashboard')
                     user.save()
-                    messages.success(request, 'Signup Successful!')
                     return redirect('login')
 
         else:

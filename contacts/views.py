@@ -38,8 +38,8 @@ def inquiry(request):
             'New Car Inquiry',
             'Hi, ' + first_name + '/nYou have a new inquiry for the car ' +
             car_title + '. Kindly login to your admin panel for more info.',
-            'ifeoluwasamson90@gmail.com',
-            [admin_email],
+            'admin_email',
+            ['ifeoluwasamson90@gmail.com'],
             fail_silently=False,
         )
 

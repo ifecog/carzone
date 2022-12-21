@@ -13,7 +13,6 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 from django.contrib.messages import constants as messages
 from pathlib import Path
 import os
-import dj_database_url
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -28,8 +27,7 @@ SECRET_KEY = 'django-insecure-&q^ec@u@@#ii24l&!^vp%u^a0bhv^xylrme@mgm%c!%md3z3&z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['limitless-thicket-02417.herokuapp.com',
-                 'carzeapp.co', 'www.carzeapp.co']
+ALLOWED_HOSTS = []
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
@@ -67,7 +65,6 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware'
 ]
 
 ROOT_URLCONF = 'carzone.urls'
@@ -92,20 +89,17 @@ WSGI_APPLICATION = 'carzone.wsgi.application'
 
 
 # Database
-# https://docs.djangoproject.com/en/4.0/ref/settings/#databases
+# https: // docs.djangoproject.com/en/4.0/ref/settings/  # databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'carzonedb',
-#         'USER': 'postgres',
-#         'PASSWORD': 'Darasimi302',
-#         'HOST': 'localhost'
-#     }
-# }
-
-DATABASES = {'default': dj_database_url.config(
-    default='postgres://postgres:Darasimi302@localhost/carzonedb')}
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'carzone',
+        'USER': 'postgres',
+        'PASSWORD': 'Darasimi302',
+        'HOST': 'localhost'
+    }
+}
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
@@ -154,10 +148,7 @@ MESSAGE_TAGS = {
     messages.ERROR: 'danger',
 }
 
-SITE_ID = 3
-
-# whitenoise settings
-STATISFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+SITE_ID = 1
 
 # send email
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
