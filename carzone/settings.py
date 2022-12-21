@@ -27,7 +27,9 @@ SECRET_KEY = 'django-insecure-&q^ec@u@@#ii24l&!^vp%u^a0bhv^xylrme@mgm%c!%md3z3&z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
+
+CSRF_TRUSTED_ORIGINS = ['https://carzone.up.railway.app']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
