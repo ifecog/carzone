@@ -91,13 +91,24 @@ WSGI_APPLICATION = 'carzone.wsgi.application'
 # Database
 # https: // docs.djangoproject.com/en/4.0/ref/settings/  # databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'carzone',
+#         'USER': 'postgres',
+#         'PASSWORD': 'Darasimi302',
+#         'HOST': 'localhost'
+#     }
+# }
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'carzone',
+        'NAME': 'railway',
         'USER': 'postgres',
-        'PASSWORD': 'Darasimi302',
-        'HOST': 'localhost'
+        'PASSWORD': '8AorCFmdcUzp07uHmQJ4',
+        'HOST': 'containers-us-west-178.railway.app',
+        'PORT': '6265',
     }
 }
 
