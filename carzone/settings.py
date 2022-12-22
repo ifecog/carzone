@@ -162,7 +162,7 @@ MESSAGE_TAGS = {
     messages.ERROR: 'danger',
 }
 
-SITE_ID = 1
+SITE_ID = 2
 
 # send email
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
