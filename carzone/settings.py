@@ -109,7 +109,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'railway',
         'USER': 'postgres',
-        'PASSWORD': '8AorCFmdcUzp07uHmQJ4',
+        'PASSWORD': 'CpLuM1anCAivxqmrbPzF',
         'HOST': 'containers-us-west-178.railway.app',
         'PORT': '6265',
     }
@@ -162,8 +162,7 @@ MESSAGE_TAGS = {
     messages.ERROR: 'danger',
 }
 
-SITE_ID = 2
-
+SITE_ID = 1
 # send email
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
